@@ -4,7 +4,7 @@ class Banner extends Component {
   render() {
     const bannerStyle = {
       textAlign: "right",
-      padding: "3%",
+      padding: "1%",
       background: "yellowgreen",
     };
     const bannerHeaderStyle = {
